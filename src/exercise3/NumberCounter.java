@@ -21,7 +21,7 @@ public class NumberCounter {
             negativni++;
           }
           number = input.nextDouble();
-          sum += number;
+          sum = (pozitivni + negativni);
         }
         
         
