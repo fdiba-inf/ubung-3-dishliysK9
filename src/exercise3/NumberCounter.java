@@ -20,8 +20,9 @@ public class NumberCounter {
           }else {
             negativni++;
           }
-          number = input.nextDouble();
           sum = (pozitivni + negativni);
+          number = input.nextDouble();
+          
         }
         
         
